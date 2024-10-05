@@ -4,3 +4,24 @@
 *.pyc
 *_pb2*.py
 .mvn/wrapper/maven-wrapper.jar
+
+# Go
+bin/
+pkg/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
