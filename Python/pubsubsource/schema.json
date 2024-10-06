@@ -1,0 +1,11 @@
+{
+    "ride_id": "32acb276-1b34-4a8f-974e-c0f3df5f58c6",
+    "point_idx": 1003,
+    "latitude": 40.742830000000005,
+    "longitude": -73.89629000000001,
+    "timestamp": "2024-10-06T09:19:16.37383-04:00",
+    "meter_reading": 14.367114,
+    "meter_increment": 0.014324142,
+    "ride_status": "enroute",
+    "passenger_count": 2
+}
